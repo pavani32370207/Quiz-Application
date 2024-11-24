@@ -1,5 +1,6 @@
 # Quiz-Application
 About
+
 The Quiz Application is a simple interactive game that presents a series of questions to the player. The player needs to choose the correct answer from the provided options. Each correct answer increases the player's score, and at the end of the quiz, the total score is displayed.
 
 Guided Path
