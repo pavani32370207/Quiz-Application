@@ -3,17 +3,6 @@ About
 
 The Quiz Application is a simple interactive game that presents a series of questions to the player. The player needs to choose the correct answer from the provided options. Each correct answer increases the player's score, and at the end of the quiz, the total score is displayed.
 
-Guided Path
-Check out our guided path on the Quiz Application for more information on the development process and our thoughts on building the Quiz Game:
-
-Quiz Application Using Python.
-
-Getting Started
-
-1.Clone this repository to your local machine.
-2.Launch Jupyter Notebook.
-3.Then navigate to the cloned repository.
-
 Requirements
 
 1.Python 3.x
